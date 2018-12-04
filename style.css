@@ -527,6 +527,15 @@ img{
   width: 100%;
 }
 
+.slide-content2 {
+  background-color: rgba(0, 0, 0, 0.0);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
 .main-slider .slick-prev {
   left: 23px;
 }
